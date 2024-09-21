@@ -1,0 +1,18 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Data files (e.g., model files)
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Git config
+.git/
